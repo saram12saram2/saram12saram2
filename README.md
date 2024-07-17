@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saram12saram2
-- 👀 I’m interested in : Reading, Foreign languages, Basketball
+- 👀 I’m interested in : Reading, Foreign languages, Tennis
 - 🌱 I’m currently learning : Golang
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me : @nellmot
